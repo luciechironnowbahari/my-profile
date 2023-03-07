@@ -1,0 +1,35 @@
+body {
+	background-color: lightgrey;
+	color: saddlebrown;
+	font-family: Avenir;
+
+}
+
+h1{
+	color: darkolivegreen;
+	font-family: gloock;
+	font-weight: lighter;
+	font-size: 70px;
+}
+
+a {
+	text-decoration: none;
+	color: darkolivegreen;
+}
+a:hover {
+	color: black;
+}
+
+div {
+	background: white;
+	padding: 40px;
+	box-shadow: 0px 10px 30px rgba(0, 0, 0, 0.1);
+}
+
+.card-white {
+	width: 700px;
+	margin: 40px auto;
+}
+
+
+
